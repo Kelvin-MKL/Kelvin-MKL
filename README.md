@@ -5,7 +5,6 @@ I have made a full stack blog application using MERN with JWT.
 
 
 
-https://user-images.githubusercontent.com/109009865/185648702-e90b14c5-b78a-41e6-b45e-1f84046ba652.mp4
 
 
 
