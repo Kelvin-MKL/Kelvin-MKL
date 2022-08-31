@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kelvin</h1>
-🌱 I’m currently learning React Js.
-I have made a full stack blog application using MERN with JWT. 
 
 
-<h3 align="center">A passionate frontend developer from Hong Kong</h3>
+
+<h3 align="center">A passionate full stack developer from Hong Kong</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
